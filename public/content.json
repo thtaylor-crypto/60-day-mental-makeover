@@ -1,0 +1,1354 @@
+{
+  "version": "1.0.0",
+  "language": "en",
+  "chapters": [
+    "Meet Your Mind",
+    "Rewrite the Script",
+    "Emotional Fluency",
+    "Break the Loop",
+    "Self-Talk & Identity",
+    "Stress to Strength",
+    "Social & Digital Boundaries",
+    "Motivation Without Burnout",
+    "Failure & Forgiveness",
+    "Future Self Journaling",
+    "Resilience Rituals",
+    "Owning Your New Mind"
+  ],
+  "lessons": [
+    {
+      "day": 1,
+      "chapter": 1,
+      "title": "The stories you tell yourself",
+      "objective": "Separate an event from the meaning you give it.",
+      "learn": "A mind can turn a small event into a large story very quickly. A late reply becomes “They dislike me,” or a difficult worksheet becomes “I am not smart.” The event and the interpretation are different pieces of information. Treating a thought as a thought gives you room to decide whether it is useful, accurate, or incomplete. You do not have to argue with every thought or replace it with a happy statement. Start by noticing the words your mind uses. Then return to something you can observe or do. This is an awareness exercise, not a test of whether you think positively enough.",
+      "example": "Alex sees an unread message and thinks, “I have ruined the friendship.” The observable fact is that the message has not been answered. Alex can acknowledge feeling worried while waiting for more information.",
+      "practice": "Choose an ordinary recent event. Write what a camera could record, then the story your mind added. Circle the part you do not yet know.",
+      "reflection": "What happened, and what meaning did I add?",
+      "options": [
+        "An unanswered message proves rejection",
+        "A thought can be an interpretation rather than a fact",
+        "Worry must disappear before I can act"
+      ],
+      "correct": 1,
+      "model": [
+        "Event",
+        "Interpretation",
+        "Possible next step"
+      ],
+      "takeaway": "Separate an event from the meaning you give it"
+    },
+    {
+      "day": 2,
+      "chapter": 1,
+      "title": "Your starting snapshot",
+      "objective": "Describe your starting point without judging yourself.",
+      "learn": "A starting snapshot helps you notice what daily life feels like now. It does not diagnose a condition or predict what you will achieve. Choose everyday areas such as concentration, connection, rest, and confidence in asking for help. Describe an example rather than relying only on a number. Context matters: a busy week, illness, discrimination, or a difficult home situation can affect how you feel. Progress may involve getting support or changing an expectation, not increasing every score. Keep this snapshot private if you prefer. On Days 30 and 60 you will compare your observations with the conditions around them, rather than grading yourself against someone else.",
+      "example": "Sam rates concentration as four out of ten during exam week and notes frequent interruptions. Instead of “I am failing,” Sam records “I need a quieter place for one study period.”",
+      "practice": "Choose three areas of daily life. For each, note what is happening, what already helps, and one small support you would welcome.",
+      "reflection": "What would make the next week a little more manageable?",
+      "options": [
+        "The snapshot is a medical screening",
+        "Low ratings are personal failures",
+        "The snapshot is a description in context"
+      ],
+      "correct": 2,
+      "model": [
+        "Current experience",
+        "Existing support",
+        "Small adjustment"
+      ],
+      "takeaway": "Describe your starting point without judging yourself"
+    },
+    {
+      "day": 3,
+      "chapter": 1,
+      "title": "Thoughts, feelings, actions",
+      "objective": "Distinguish a thought, a feeling, and an action.",
+      "learn": "Thoughts are the words or pictures in your mind. Feelings are emotional experiences, such as sadness or excitement. Actions are things you do, such as replying, leaving, or asking a question. These influence one another, but they are not the same. Saying “I feel like everyone hates me” contains an interpretation about other people. Saying “I feel lonely” names an emotion. Neither needs to be shamed. Making the distinction helps you find an entry point: you might check an interpretation, name a feeling, or choose a different action. Your body and environment also matter; this simple model does not explain every experience or place responsibility for harm on you.",
+      "example": "After a low grade, Kai thinks “I cannot learn this,” feels disappointed, and avoids the next assignment. Kai can ask for one example of a corrected answer while still feeling disappointed.",
+      "practice": "Draw three boxes labeled thought, feeling, and action. Put one ordinary situation into the boxes. Identify a small action you can choose safely.",
+      "reflection": "Which part of the pattern can I influence today?",
+      "options": [
+        "Thoughts and feelings are identical",
+        "A feeling can be present while I choose an action",
+        "Every emotion has one simple cause"
+      ],
+      "correct": 1,
+      "model": [
+        "Thought",
+        "Feeling",
+        "Action"
+      ],
+      "takeaway": "Distinguish a thought, a feeling, and an action"
+    },
+    {
+      "day": 4,
+      "chapter": 1,
+      "title": "Return to the room",
+      "objective": "Try an optional outward-focused grounding practice.",
+      "learn": "When attention becomes crowded, an ordinary detail in your surroundings can provide a place to return. Grounding does not require closing your eyes, controlling your breathing, or making uncomfortable feelings vanish. You can look at a stable object, notice where you are, and name a color or texture. Adapt the exercise to your senses and access needs. If paying attention to the body or the room makes you feel worse, stop and choose another activity or seek support. Grounding is a brief attention practice, not a response to every problem. Once you have oriented yourself, decide whether you need rest, help, or a practical next step.",
+      "example": "Before a presentation, Noor notices a blue folder on the desk and reads the first line of the notes. The nerves remain, but Noor has a concrete starting point.",
+      "practice": "With eyes open if comfortable, name three things you can see or otherwise notice. Locate one steady surface. Choose your next ordinary action. Stop whenever you wish.",
+      "reflection": "What detail helped me reconnect with the present?",
+      "options": [
+        "Grounding must erase distress",
+        "Everyone must close their eyes",
+        "A comfortable external detail can be an attention anchor"
+      ],
+      "correct": 2,
+      "model": [
+        "Notice surroundings",
+        "Choose an anchor",
+        "Re-engage"
+      ],
+      "takeaway": "Try an optional outward-focused grounding practice"
+    },
+    {
+      "day": 5,
+      "chapter": 1,
+      "title": "Your learning agreement",
+      "objective": "Set a flexible commitment that protects choice.",
+      "learn": "A useful learning agreement supports your life rather than demanding that your life fit a perfect schedule. Decide where and when you might practice, how you will protect your privacy, and what you will do if you miss a day. You can spread this workbook over more than sixty calendar days. A missed session does not erase previous practice. Choose the amount of writing that feels helpful, and use fictional situations whenever a personal example would be too private. Include permission to pause and ask for support. At the end of each five-day chapter, review what is useful and what needs changing. Consistency can include returning after an interruption.",
+      "example": "Riley plans fifteen minutes after dinner on three evenings and a longer weekend session. If a day is missed, Riley returns to the next lesson without doubling the workload.",
+      "practice": "Write a plan with a time, a place, a privacy choice, and a restart rule. Read it as an invitation you can revise, not a promise you must defend.",
+      "reflection": "What commitment feels supportive rather than punishing?",
+      "options": [
+        "A missed day requires starting over",
+        "A flexible agreement can include a restart rule",
+        "Personal disclosure is required"
+      ],
+      "correct": 1,
+      "model": [
+        "Choose a rhythm",
+        "Protect choice",
+        "Return when ready"
+      ],
+      "takeaway": "Set a flexible commitment that protects choice"
+    },
+    {
+      "day": 6,
+      "chapter": 2,
+      "title": "Catch the automatic line",
+      "objective": "Notice a recurring thought before deciding what to do with it.",
+      "learn": "An automatic thought can arrive before you have deliberately considered a situation. Common examples are “I will mess up,” “They are judging me,” or “There is no point.” Noticing one does not mean you caused it or must control it. Write down the exact words when practical. Avoid changing the thought into a more polite version before you have seen its pattern. Then ask what was happening around you and what response the thought encouraged. A short record is enough. The purpose is to recognize a repeated interpretation so that it has less power to pass unnoticed as a command.",
+      "example": "Jamie is invited to join a group task and immediately thinks, “They only asked because they had to.” Noticing the line helps Jamie see that withdrawing is a choice, not an obligation.",
+      "practice": "Use the sentence “When ___ happened, my mind said ___, and I wanted to ___.” Try it with a low-stakes situation.",
+      "reflection": "Which automatic line appears often in my day?",
+      "options": [
+        "An automatic thought must be obeyed",
+        "Noticing a thought means it is true",
+        "A recurring thought can be noticed without being obeyed"
+      ],
+      "correct": 2,
+      "model": [
+        "Trigger",
+        "Automatic line",
+        "Urge"
+      ],
+      "takeaway": "Notice a recurring thought before deciding what to do with it"
+    },
+    {
+      "day": 7,
+      "chapter": 2,
+      "title": "Look for thinking shortcuts",
+      "objective": "Recognize an unhelpful thinking pattern without labeling yourself.",
+      "learn": "A thinking shortcut is a way of drawing a conclusion quickly. All-or-nothing thinking allows only perfect or terrible. Mind reading assumes you know what another person thinks. Predicting the worst treats one feared outcome as certain. These labels are tools for examining a sentence, not names for a person. A concern may also reflect a real risk or unfair treatment. Do not use a label to dismiss evidence of harm. Ask what information is available, what remains uncertain, and what would be a safe response. The goal is a more accurate view, not forcing yourself to tolerate something unsafe.",
+      "example": "After stumbling over one sentence, Taylor decides the entire interview was a disaster. “All-or-nothing” describes the conclusion; it does not prove how the interviewer evaluated the conversation.",
+      "practice": "Choose one thought and see whether it contains “always,” “never,” or certainty about someone else's mind. Rewrite the uncertain part as a question.",
+      "reflection": "What information is missing from my first conclusion?",
+      "options": [
+        "Thinking labels can help examine a sentence",
+        "Every negative concern is a thinking error",
+        "Other people's thoughts are directly observable"
+      ],
+      "correct": 0,
+      "model": [
+        "Quick conclusion",
+        "Pattern check",
+        "Open question"
+      ],
+      "takeaway": "Recognize an unhelpful thinking pattern without labeling yourself"
+    },
+    {
+      "day": 8,
+      "chapter": 2,
+      "title": "Evidence, not a courtroom",
+      "objective": "Examine support for a thought with curiosity.",
+      "learn": "Checking a thought is not a courtroom where you must prove that you are wrong. Look for specific observations that support the thought, observations that complicate it, and information you do not have. A feeling can be real and important without serving as proof of another person's intention. If a thought concerns safety, use caution and seek help rather than turning it into a debate. With ordinary worries, gathering one additional fact can be more useful than rehearsing the same argument. You can finish with uncertainty: “I do not know yet, and I can choose a reasonable next step.”",
+      "example": "Morgan thinks, “I never finish anything.” Evidence includes an unfinished project. Complicating evidence includes completing a job application and helping with a family task last week.",
+      "practice": "Create three columns: supports, complicates, and unknown. Add one concrete example to each available column. Avoid inventing positive evidence.",
+      "reflection": "What does the full picture show that my first thought left out?",
+      "options": [
+        "Strong feelings prove an interpretation",
+        "Only positive evidence counts",
+        "Specific observations can complicate a broad conclusion"
+      ],
+      "correct": 2,
+      "model": [
+        "Supports",
+        "Complicates",
+        "Unknowns",
+        "Fuller picture"
+      ],
+      "takeaway": "Examine support for a thought with curiosity"
+    },
+    {
+      "day": 9,
+      "chapter": 2,
+      "title": "Write a balanced response",
+      "objective": "Create a believable alternative to an extreme thought.",
+      "learn": "A balanced response includes the difficulty and the possibility of action. It does not promise success or deny a painful experience. “This is hard, and I can ask a specific question” is more useful than “Everything will be perfect” when you do not believe that promise. Use words you might say to a friend you respect. Keep the response short enough to remember in the situation. If you cannot find an alternative, try describing what is known and what is not known. Believability matters more than cheerfulness. You may still feel uncomfortable after writing it, and that does not mean the exercise failed.",
+      "example": "Instead of “I will definitely fail,” Lee writes, “I am underprepared for two topics. I can review one example and ask about the other.” The new response names the problem and a workable action.",
+      "practice": "Choose a thought from the last three days. Write a response containing one honest difficulty, one uncertainty or strength, and one safe next step.",
+      "reflection": "Which response sounds truthful enough for me to use?",
+      "options": [
+        "A balanced response guarantees success",
+        "A balanced response is honest and actionable",
+        "A useful response must feel cheerful"
+      ],
+      "correct": 1,
+      "model": [
+        "Difficulty",
+        "Perspective",
+        "Next step"
+      ],
+      "takeaway": "Create a believable alternative to an extreme thought"
+    },
+    {
+      "day": 10,
+      "chapter": 2,
+      "title": "Run a small learning experiment",
+      "objective": "Test a low-stakes prediction safely.",
+      "learn": "Some predictions can be explored through a small experiment. First state a prediction in observable terms. Then choose a safe action and decide what you will notice. Keep it low stakes: asking a factual question, trying a different study setting, or spending five minutes on a task. This is not a reason to enter unsafe situations, ignore boundaries, or test whether someone will harm you. Afterward, record what actually happened, including mixed results. One experiment does not settle every future situation. It gives you one piece of information and a chance to revise the plan.",
+      "example": "Avery predicts that asking a teacher to repeat an instruction will annoy them. Avery asks once after class and records the response rather than guessing it in advance.",
+      "practice": "Write a prediction, a safe five-minute test, and the observation you will collect. If no safe test fits, use an imagined example instead.",
+      "reflection": "What did I learn, and what remains uncertain?",
+      "options": [
+        "One result predicts every future event",
+        "Experiments should involve serious risk",
+        "A small safe test can provide information"
+      ],
+      "correct": 2,
+      "model": [
+        "Prediction",
+        "Safe test",
+        "Observation",
+        "Revision"
+      ],
+      "takeaway": "Test a low-stakes prediction safely"
+    },
+    {
+      "day": 11,
+      "chapter": 3,
+      "title": "Name the feeling precisely",
+      "objective": "Use emotional vocabulary to describe an experience.",
+      "learn": "“Bad” can mean disappointed, worried, lonely, irritated, overwhelmed, or several things at once. More precise words may help you communicate what kind of support you want. Naming a feeling is not a requirement to explain it perfectly. You can say “I am not sure” or use a broad word first. Feelings can change across a day, and two apparently opposite feelings can coexist. Being pleased about a new opportunity and sad about leaving friends is not a contradiction. Avoid judging a feeling as a character flaw. Describe the experience before deciding what action fits the situation.",
+      "example": "Dev says “I am angry” after a canceled plan, then notices disappointment and embarrassment underneath. That clearer description helps Dev ask for a rescheduled time instead of sending an insult.",
+      "practice": "Choose up to three feeling words. For each, write a situation where it fits and a support that might help. You may use a fictional situation.",
+      "reflection": "What word describes my experience more accurately than “bad”?",
+      "options": [
+        "Mixed feelings can exist together",
+        "Every feeling has one correct name",
+        "Naming a feeling requires disclosing private history"
+      ],
+      "correct": 0,
+      "model": [
+        "Broad feeling",
+        "More precise word",
+        "Support request"
+      ],
+      "takeaway": "Use emotional vocabulary to describe an experience"
+    },
+    {
+      "day": 12,
+      "chapter": 3,
+      "title": "Read early signals",
+      "objective": "Identify a personal sign that it may be time to pause.",
+      "learn": "Early signals are changes you notice before a situation becomes harder to manage. They may include speaking faster, losing track of instructions, avoiding messages, or wanting to leave. These signs do not diagnose anything, and the same sign can have many causes. You do not need to scan your body if that feels uncomfortable; focus on actions or surroundings instead. A helpful signal is one you can notice with kindness and connect to a choice. The choice might be checking basic needs, taking a break, asking for clarification, or contacting someone. Notice patterns over time rather than assuming every signal means the same thing.",
+      "example": "When Ellis starts rereading the same paragraph repeatedly, it becomes a cue to check the task instructions and consider a short break rather than calling themself lazy.",
+      "practice": "List two early signals in behavior or attention. Match each to a simple response and one person who could help if needed.",
+      "reflection": "What signal can remind me to check what I need?",
+      "options": [
+        "A single signal diagnoses a condition",
+        "Early signals can prompt a supportive choice",
+        "Signals should be punished"
+      ],
+      "correct": 1,
+      "model": [
+        "Early signal",
+        "Pause",
+        "Choose support"
+      ],
+      "takeaway": "Identify a personal sign that it may be time to pause"
+    },
+    {
+      "day": 13,
+      "chapter": 3,
+      "title": "Feelings and chosen actions",
+      "objective": "Separate emotional permission from permission to harm.",
+      "learn": "You can acknowledge anger, jealousy, grief, or fear without approving every action connected to that feeling. A feeling is information about your experience; it is not an instruction that removes responsibility. You may need distance, time, protection, or practical help before responding. Try describing both truths: “I am upset, and I will not send a threatening message.” This does not mean tolerating mistreatment or remaining in danger. Safety comes first. When appropriate, a trusted adult or professional can help you plan a response that protects you and others. Practice with an everyday disagreement rather than a traumatic event.",
+      "example": "Chris feels furious after a teammate makes a joke. Chris chooses to step away and later say, “That comment was not okay with me,” instead of shoving the teammate.",
+      "practice": "Write a feeling you might have in a disagreement. List one action that could make things worse and one safe alternative that honors a boundary.",
+      "reflection": "How can I take my feeling seriously while choosing my response?",
+      "options": [
+        "Feeling angry permits any action",
+        "Acknowledging a feeling requires acting on the urge",
+        "A feeling can be valid while an action is unsafe"
+      ],
+      "correct": 2,
+      "model": [
+        "Feeling",
+        "Urge",
+        "Deliberate response"
+      ],
+      "takeaway": "Separate emotional permission from permission to harm"
+    },
+    {
+      "day": 14,
+      "chapter": 3,
+      "title": "Connect needs and requests",
+      "objective": "Translate a vague need into a specific request.",
+      "learn": "A need is broader than one person's preferred solution. You may need rest, clarity, connection, respect, or safety. A request identifies an action another person can understand and consider. “Care about me” is difficult to act on; “Could we talk for ten minutes after dinner?” is clearer. Another person may be unable to meet the request, so consider alternatives. A refusal does not automatically mean your need is unimportant. Some needs require adult, organizational, or professional support rather than a friend. You are not responsible for solving another person's crisis by yourself.",
+      "example": "Pat feels excluded and wants connection. Instead of “You never care,” Pat asks, “Would you like to sit together at lunch tomorrow?” and also considers another friendly group.",
+      "practice": "Choose an everyday need. Draft a request with a specific action and time. Write a respectful alternative if the person cannot help.",
+      "reflection": "What am I asking someone to do, rather than to guess?",
+      "options": [
+        "A clear request names an observable action",
+        "Needs must be met by one particular person",
+        "A refusal makes a need invalid"
+      ],
+      "correct": 0,
+      "model": [
+        "Feeling",
+        "Need",
+        "Specific request",
+        "Alternative"
+      ],
+      "takeaway": "Translate a vague need into a specific request"
+    },
+    {
+      "day": 15,
+      "chapter": 3,
+      "title": "Your emotional vocabulary review",
+      "objective": "Bring feeling, context, and support into one description.",
+      "learn": "Review the last five days by looking for differences you can now describe. You may have learned a new feeling word, noticed an early signal, or found a clearer request. Learning does not require becoming calm on demand. Practice telling a short, ordinary story with four parts: what happened, what you felt, what mattered to you, and what you chose. Leave out private details that do not help. If you cannot identify a change yet, record what still feels confusing. A useful review can reveal the next question to ask, not only a skill you have mastered.",
+      "example": "Jordan says, “When the plan changed, I felt disappointed because time together mattered to me. I asked when we could try again.” That account explains the experience without claiming to know anyone's motives.",
+      "practice": "Use the four-part structure for a mild situation. Then choose one feeling word or request skill to practice in the next five days.",
+      "reflection": "What can I describe now that was harder to name on Day 11?",
+      "options": [
+        "Review requires proof of constant calm",
+        "Review can identify an unanswered question",
+        "Private details must be shared publicly"
+      ],
+      "correct": 1,
+      "model": [
+        "Context",
+        "Feeling",
+        "What matters",
+        "Chosen action"
+      ],
+      "takeaway": "Bring feeling, context, and support into one description"
+    },
+    {
+      "day": 16,
+      "chapter": 4,
+      "title": "Map a habit in context",
+      "objective": "Identify a cue, an action, and its immediate result.",
+      "learn": "Habits often fit a situation: a phone on the desk prompts a check, a familiar seat invites a routine, or boredom leads to opening an app. A cue is something that comes before an action. The immediate result helps explain why the action repeats, even when the long-term result is unhelpful. This is a simple observation model, not a full explanation of every behavior. Money, safety, disability, workload, and other people can limit your choices. Start with a small everyday habit rather than a serious health or safety problem. Describe what the action provides before trying to change it.",
+      "example": "Nico opens short videos whenever a homework question feels confusing. The immediate result is a break from uncertainty; the later result is less time for the assignment.",
+      "practice": "Map one low-stakes habit: cue, action, immediate result, and later result. Note what useful need the habit may be meeting.",
+      "reflection": "What does this habit give me in the moment?",
+      "options": [
+        "Every habit reflects a character flaw",
+        "Only long-term results matter",
+        "Immediate results can help explain repetition"
+      ],
+      "correct": 2,
+      "model": [
+        "Cue",
+        "Action",
+        "Immediate result",
+        "Later result"
+      ],
+      "takeaway": "Identify a cue, an action, and its immediate result"
+    },
+    {
+      "day": 17,
+      "chapter": 4,
+      "title": "Change the surroundings",
+      "objective": "Adjust one environmental cue rather than relying only on willpower.",
+      "learn": "An environment can make one action easier and another harder. A notebook in view may invite writing, while constant notifications can interrupt attention. Changing the setting is not cheating; it is planning. Choose an adjustment you can control without creating conflict or losing necessary access. A shared room or family responsibility may limit what is possible, so look for a small portable change. Test one change at a time. If it does not help, treat that as information about the setting rather than proof that you lack discipline. Useful plans fit the conditions you actually live in.",
+      "example": "Sage keeps reaching for the phone during study. Instead of promising never to check it, Sage puts it across the room for one short session while keeping important calls audible.",
+      "practice": "Choose one cue to add, remove, or move. Predict how it might affect a specific action. Try it once and record the result.",
+      "reflection": "Which part of my surroundings can I realistically adjust?",
+      "options": [
+        "Changing the setting is a planning skill",
+        "Willpower is the only valid tool",
+        "One adjustment works for everyone"
+      ],
+      "correct": 0,
+      "model": [
+        "Setting change",
+        "Easier action",
+        "Observe fit"
+      ],
+      "takeaway": "Adjust one environmental cue rather than relying only on willpower"
+    },
+    {
+      "day": 18,
+      "chapter": 4,
+      "title": "Make the first step smaller",
+      "objective": "Define a beginning that is possible on a difficult day.",
+      "learn": "A large task may contain many hidden steps. “Get organized” could mean finding a folder, sorting a page, or identifying a deadline. Making the first step smaller helps you know what starting looks like. It does not mean pretending the whole task is easy. Choose an action small enough to attempt, but connected to the real goal. After the first step, you may continue or stop at the planned point. Avoid treating a tiny start as a guarantee of motivation. If repeated difficulty comes from unclear instructions, overload, or unmet needs, seek support rather than endlessly shrinking the task.",
+      "example": "Instead of “Write the whole essay,” Ren chooses “Open the assignment and write one possible topic.” That action reduces uncertainty about where to begin.",
+      "practice": "Pick a task you have been avoiding. Break its beginning into three visible actions, then choose the smallest useful one.",
+      "reflection": "What would starting look like in two minutes?",
+      "options": [
+        "A small start guarantees finishing",
+        "A first step should be observable and connected to the goal",
+        "A difficult task proves laziness"
+      ],
+      "correct": 1,
+      "model": [
+        "Large task",
+        "First visible action",
+        "Optional next step"
+      ],
+      "takeaway": "Define a beginning that is possible on a difficult day"
+    },
+    {
+      "day": 19,
+      "chapter": 4,
+      "title": "Plan for a familiar obstacle",
+      "objective": "Use an if–then plan with a realistic fallback.",
+      "learn": "An if–then plan connects a recognizable situation to an action you have chosen in advance. “If I finish lunch, then I will check tomorrow's timetable” gives the action a cue. It is different from a vague intention such as “I will be more responsible.” The plan should fit your actual routine and include a fallback when the first cue is missed. You cannot plan away every interruption. Keep the response simple enough to remember and safe enough to use. Review the plan after trying it, especially if the cue is hard to notice or the action is too large.",
+      "example": "If Jules notices scrolling has replaced the planned study session, then Jules will close the app and read one instruction. If quiet space is unavailable, Jules will write a question to ask later.",
+      "practice": "Write one if–then plan and one fallback. Check that the “if” is something you can notice and the “then” is something you can do.",
+      "reflection": "What obstacle deserves a plan rather than self-criticism?",
+      "options": [
+        "If–then plans remove every obstacle",
+        "A useful plan can include a fallback",
+        "A vague wish is the same as a cue"
+      ],
+      "correct": 1,
+      "model": [
+        "If a cue occurs",
+        "Then a small action",
+        "Fallback if needed"
+      ],
+      "takeaway": "Use an if–then plan with a realistic fallback"
+    },
+    {
+      "day": 20,
+      "chapter": 4,
+      "title": "Review your habit experiment",
+      "objective": "Use observations to decide what to keep, change, or stop.",
+      "learn": "Review the habit you mapped on Day 16. Ask whether the cue appeared, whether you noticed it, whether you attempted the action, and what followed. These are different questions. A plan may fail because the cue did not occur, not because you refused to act. You may also discover that the old habit met a need your new plan ignored. Keep changes that help and are sustainable. Adjust or stop changes that add strain or create safety problems. The aim is learning about a workable routine, not proving that you can control every part of your day.",
+      "example": "Ari planned to read after a bus ride, but the ride was often crowded and tiring. Ari moves the cue to a quieter period at home and keeps the reading goal small.",
+      "practice": "Compare your plan with what actually happened. Choose keep, change, or stop, and explain one reason grounded in observation.",
+      "reflection": "What did my real week teach me about this plan?",
+      "options": [
+        "An unsuccessful trial can inform a better plan",
+        "A missed cue proves unwillingness",
+        "Every plan must be kept unchanged"
+      ],
+      "correct": 0,
+      "model": [
+        "Plan",
+        "Observation",
+        "Keep / Change / Stop"
+      ],
+      "takeaway": "Use observations to decide what to keep, change, or stop"
+    },
+    {
+      "day": 21,
+      "chapter": 5,
+      "title": "Listen to your inner tone",
+      "objective": "Recognize how tone changes the usefulness of self-talk.",
+      "learn": "Two sentences can name the same mistake while inviting different responses. “You are useless” attacks identity. “You missed a step; check the instructions” identifies a problem and an action. Self-talk may echo things you have heard from others, and noticing it does not make you responsible for those experiences. Start with the tone rather than forcing an affirmation. Ask whether the words help you understand the situation or simply punish you. A useful inner voice can be direct and accountable without being cruel. Practice on an ordinary mistake where a practical correction is possible.",
+      "example": "Fin forgets a deadline. “I am hopeless” offers no plan. “I need to tell the teacher, ask about options, and set a reminder” keeps responsibility while reducing insult.",
+      "practice": "Write one harsh sentence you might say to yourself. Keep the factual problem and remove the personal attack. Add a next step.",
+      "reflection": "What would firm and respectful self-talk sound like?",
+      "options": [
+        "Accountability requires insults",
+        "A useful correction can be specific without attacking identity",
+        "Every mistake defines my character"
+      ],
+      "correct": 1,
+      "model": [
+        "Harsh label",
+        "Specific fact",
+        "Respectful correction"
+      ],
+      "takeaway": "Recognize how tone changes the usefulness of self-talk"
+    },
+    {
+      "day": 22,
+      "chapter": 5,
+      "title": "Values beyond labels",
+      "objective": "Describe a value through actions rather than an identity badge.",
+      "learn": "A value is a direction you want your choices to express, such as honesty, care, curiosity, or fairness. A label such as “successful” can hide many different meanings. Ask what the label would look like in an ordinary action. Values can guide you even when circumstances prevent a desired outcome. Acting honestly on an application does not guarantee acceptance, but it does make the value visible. You can also revise priorities when values compete. Caring for a friend and protecting your rest may require a limit rather than an unlimited promise. A value should guide choices, not become another way to condemn yourself.",
+      "example": "Emery wants to be “reliable.” A visible action is telling a group early when a task cannot be finished, rather than disappearing or promising more than is possible.",
+      "practice": "Choose two values. For each, describe an action someone could observe this week and a boundary that helps you sustain it.",
+      "reflection": "How can I express a value in one small choice?",
+      "options": [
+        "A value is a direction for action",
+        "A value guarantees an outcome",
+        "Values require agreeing to every request"
+      ],
+      "correct": 0,
+      "model": [
+        "Value",
+        "Everyday situation",
+        "Observable choice"
+      ],
+      "takeaway": "Describe a value through actions rather than an identity badge"
+    },
+    {
+      "day": 23,
+      "chapter": 5,
+      "title": "Strengths with evidence",
+      "objective": "Identify a strength using a real example and its limits.",
+      "learn": "A strength is more useful when you can connect it to behavior. “I persisted” becomes clearer when you describe returning to a difficult form and asking one question. You do not need an award or an exceptional story. Ordinary acts of care, repair, learning, and resourcefulness count as evidence. A strength also has limits: persistence may need rest, and generosity may need boundaries. Avoid turning a strength into a rule that you must always be available or capable. Naming a strength is a way to recognize a resource you can use, not a demand to perform it every day.",
+      "example": "Drew notices being good at explaining steps after helping a sibling learn a game. Drew can use that skill in a group task while still asking for help with unfamiliar material.",
+      "practice": "Name one strength, an event that demonstrates it, and a situation where support would still be needed.",
+      "reflection": "What have I done that gives me evidence of a useful capacity?",
+      "options": [
+        "A strength means never needing help",
+        "Only public achievements count",
+        "An ordinary action can provide evidence of a strength"
+      ],
+      "correct": 2,
+      "model": [
+        "Specific action",
+        "Capacity noticed",
+        "Appropriate use"
+      ],
+      "takeaway": "Identify a strength using a real example and its limits"
+    },
+    {
+      "day": 24,
+      "chapter": 5,
+      "title": "Change the comparison question",
+      "objective": "Move from ranking yourself to gathering useful information.",
+      "learn": "Comparison can show you a possibility, but it can also turn a partial view of another life into a verdict about your own. You may see the finished work without seeing support, practice, resources, or setbacks. Instead of asking only “Am I better or worse?” ask “What can I learn, and does this goal fit my values and circumstances?” Sometimes the best response is to step away from a feed or conversation that repeatedly harms your attention. You do not have to be grateful for unfair conditions. You can acknowledge an unequal starting point while choosing a relevant next action or asking for support.",
+      "example": "After seeing polished portfolios online, Quinn feels behind. Quinn chooses one layout idea to learn and limits browsing, rather than treating the feed as a complete picture of every peer.",
+      "practice": "Describe a comparison that has been unhelpful. Identify what you cannot see, one useful lesson if any, and a boundary for future exposure.",
+      "reflection": "What question would help me learn rather than rank my worth?",
+      "options": [
+        "A feed shows everyone's full circumstances",
+        "A comparison can be turned into a learning question",
+        "Someone else's progress reduces my worth"
+      ],
+      "correct": 1,
+      "model": [
+        "Comparison",
+        "Missing context",
+        "Useful lesson or boundary"
+      ],
+      "takeaway": "Move from ranking yourself to gathering useful information"
+    },
+    {
+      "day": 25,
+      "chapter": 5,
+      "title": "Write your identity in motion",
+      "objective": "Describe yourself with room for learning and change.",
+      "learn": "An identity statement can include history, values, interests, relationships, and choices without freezing you into a single story. “I am learning to communicate clearly” leaves more room than “I am bad with people.” Change does not require rejecting every part of your past or pretending that difficult events did not happen. You can name what you want to carry forward and what you want to practice differently. Be cautious with a “new me” promise that suggests you must never struggle again. A flexible statement can include support, rest, and uncertainty. Your worth does not depend on completing this workbook perfectly.",
+      "example": "Sky writes, “I care about fairness, enjoy making things, and am practicing asking for help before I feel overwhelmed.” The statement includes direction without promising perfection.",
+      "practice": "Write three lines: something I value, something I am learning, and a support I can accept. Keep private details optional.",
+      "reflection": "Which description leaves room for the person I am becoming?",
+      "options": [
+        "A useful identity statement must be permanent",
+        "Growth requires rejecting all past experience",
+        "An identity statement can include learning and support"
+      ],
+      "correct": 2,
+      "model": [
+        "What I value",
+        "What I practice",
+        "Support I accept"
+      ],
+      "takeaway": "Describe yourself with room for learning and change"
+    },
+    {
+      "day": 26,
+      "chapter": 6,
+      "title": "Sort demands and resources",
+      "objective": "Describe stress in terms of demands, supports, and choices.",
+      "learn": "Stress can arise when demands feel greater than the resources available to meet them. A demand may be an exam, a financial problem, a caregiving task, or an unsafe situation. Resources include time, clear information, practical assistance, rest, and supportive people. This is a planning lens, not a complete explanation of your health. Some demands need outside intervention rather than a personal coping skill. List what can be adjusted, shared, postponed, or referred for help. You do not have to earn support by first trying every self-help exercise. A useful plan addresses the real demand as well as your response to it.",
+      "example": "Harper has two deadlines and a family responsibility. The plan includes asking about an extension and sharing one task, rather than simply promising to stay calm.",
+      "practice": "List one current demand, available resources, and one missing resource. Choose an adjustment or request that fits the situation.",
+      "reflection": "Which demand needs practical help rather than more effort from me?",
+      "options": [
+        "Every stressor can be solved by breathing",
+        "Resources and demands both matter",
+        "Asking for support is failure"
+      ],
+      "correct": 1,
+      "model": [
+        "Demand",
+        "Available resources",
+        "Adjustment"
+      ],
+      "takeaway": "Describe stress in terms of demands, supports, and choices"
+    },
+    {
+      "day": 27,
+      "chapter": 6,
+      "title": "A comfortable pause",
+      "objective": "Try a brief rest practice without forcing the breath.",
+      "learn": "A comfort break is a pause you can adapt. Find a position or location that is reasonably safe and comfortable. You may keep your eyes open, look at an ordinary object, or listen to familiar sounds. Let breathing happen naturally; you do not need to hold it, count it, or take deep breaths. Some people dislike breath-focused exercises, and that preference is valid. If discomfort increases, stop and orient to your surroundings or contact support. The goal is a moment of choice, not a requirement to relax. Afterward, ask what the next manageable step is, including taking a longer rest if possible.",
+      "example": "Before opening a difficult email, Rowan puts both hands on the desk, looks at the window frame, and pauses. Rowan then decides to read the message once and write down any question.",
+      "practice": "Try a pause for up to one minute if comfortable. Choose an external anchor, let the breath remain natural, and stop whenever you want.",
+      "reflection": "What kind of pause is comfortable for me?",
+      "options": [
+        "A break must include breath holding",
+        "Discomfort means I should force the exercise",
+        "A pause can use an external anchor and natural breathing"
+      ],
+      "correct": 2,
+      "model": [
+        "Pause",
+        "Comfortable anchor",
+        "Next choice"
+      ],
+      "takeaway": "Try a brief rest practice without forcing the breath"
+    },
+    {
+      "day": 28,
+      "chapter": 6,
+      "title": "Rest is part of the plan",
+      "objective": "Identify one routine that supports rest without moralizing it.",
+      "learn": "Rest is a need, not a prize for finishing every task. Sleep and rest are affected by schedules, housing, health, responsibilities, and access to a comfortable place. Start by observing one routine you can influence, such as preparing tomorrow's materials earlier or reducing a late-night interruption. Do not turn a missed bedtime into a reason for shame. Different ages have different sleep needs, and persistent sleep difficulties deserve qualified advice. This workbook does not prescribe treatment. A small routine may help create conditions for rest, while practical support may be necessary to address larger barriers.",
+      "example": "Casey cannot control the whole household schedule but can pack a bag before evening activities. That reduces one late task and leaves a little more time to wind down.",
+      "practice": "Describe one barrier to rest, one condition that helps, and a realistic change or support request. Consider access and responsibilities, not just motivation.",
+      "reflection": "What would make rest more possible in my circumstances?",
+      "options": [
+        "Rest must be earned by productivity",
+        "One routine can support rest without solving every barrier",
+        "Everyone has the same sleep circumstances"
+      ],
+      "correct": 1,
+      "model": [
+        "Barrier",
+        "Helpful condition",
+        "Realistic support"
+      ],
+      "takeaway": "Identify one routine that supports rest without moralizing it"
+    },
+    {
+      "day": 29,
+      "chapter": 6,
+      "title": "Choose your influence zone",
+      "objective": "Separate direct control, influence, and outside responsibility.",
+      "learn": "Some actions are yours to choose, some outcomes can be influenced, and others are outside your responsibility. You can choose to prepare a question, influence a conversation by asking respectfully, and still not control another person's response. This distinction can reduce the burden of trying to manage everyone. It is not an instruction to accept injustice or danger. Outside problems may require collective action, reporting, or professional support. Name the level honestly, then decide where your effort is useful. If something is beyond your control, the next action may be seeking protection or assistance rather than changing your attitude.",
+      "example": "Blair cannot decide whether an employer offers an interview. Blair can check the application, ask a mentor to review it, and plan other options while waiting.",
+      "practice": "Sort three concerns into direct action, possible influence, and outside responsibility. Add a support or referral where personal effort is not enough.",
+      "reflection": "Where is my effort useful, and where do I need support?",
+      "options": [
+        "I can control another person's response",
+        "Outside my control means I must tolerate harm",
+        "Influence is different from control"
+      ],
+      "correct": 2,
+      "model": [
+        "My action",
+        "Possible influence",
+        "Outside responsibility"
+      ],
+      "takeaway": "Separate direct control, influence, and outside responsibility"
+    },
+    {
+      "day": 30,
+      "chapter": 6,
+      "title": "Your halfway celebration",
+      "objective": "Review learning without requiring a perfect improvement story.",
+      "learn": "Thirty lessons provide a chance to pause and notice effort, useful discoveries, and unmet needs. Compare your starting snapshot with an ordinary example from this week. A lower mood score does not erase learning, and a higher score does not prove that the workbook caused a change. Circumstances matter. Celebrate a specific action such as returning after a break, naming a feeling, or asking for clarification. You may also decide that a tool does not fit you. That is useful information. Choose a kind acknowledgment that does not depend on spending money or sharing publicly, and plan one adjustment for the second half.",
+      "example": "Ash notices that stress is still high but asking for help has become easier. Ash celebrates that concrete action and reduces the number of evening commitments.",
+      "practice": "Record one skill tried, one support used, one difficulty that remains, and one change for the next thirty lessons. Choose a small private celebration.",
+      "reflection": "What deserves acknowledgment even if life is still difficult?",
+      "options": [
+        "Progress must mean feeling better every day",
+        "A specific learning action can be worth celebrating",
+        "Mood changes prove the workbook's effect"
+      ],
+      "correct": 1,
+      "model": [
+        "Look back",
+        "Acknowledge effort",
+        "Adjust the next phase"
+      ],
+      "takeaway": "Review learning without requiring a perfect improvement story"
+    },
+    {
+      "day": 31,
+      "chapter": 7,
+      "title": "Draw a practical boundary",
+      "objective": "State a limit that names your own action.",
+      "learn": "A boundary describes what you can offer, what is not acceptable to you, and what you will do to protect a limit. It is not a way to control another person's thoughts. A clear boundary might be “I can talk for ten minutes; after that I need to study.” Safety and power differences matter. In some situations, direct confrontation may increase risk; seek support and use a safer plan instead. You do not owe a long explanation for every limit. Practice with a low-stakes request first. A boundary may feel uncomfortable and still be reasonable.",
+      "example": "Logan tells a friend, “I cannot lend money. I can help you look for another option.” The limit is about Logan's action, not a demand that the friend never feel disappointed.",
+      "practice": "Choose a low-stakes limit. Write what you can offer, what you cannot offer, and a safe action if the request continues.",
+      "reflection": "What limit would help me act with care and honesty?",
+      "options": [
+        "A boundary guarantees agreement",
+        "A boundary controls other people's emotions",
+        "A boundary can describe what I will do"
+      ],
+      "correct": 2,
+      "model": [
+        "Limit",
+        "Clear words",
+        "Safe follow-through"
+      ],
+      "takeaway": "State a limit that names your own action"
+    },
+    {
+      "day": 32,
+      "chapter": 7,
+      "title": "Make a clear request",
+      "objective": "Practice communication that is specific and respectful.",
+      "learn": "Clear communication often includes an observation, your concern, and a request. Keep the observation as factual as possible. Avoid guessing motives when you do not know them. A request is easier to answer when it names a specific action and timeframe. Respectful language does not guarantee a respectful reply, and it does not make you responsible for another person's harmful behavior. Choose the setting carefully and involve support when a power difference or safety concern makes direct conversation difficult. You can also write a draft without sending it. Practicing the words can help you decide whether the conversation is useful.",
+      "example": "Milan says, “The shared document changed after I finished my section. Could we agree on a time to review edits together?” rather than “You are trying to ruin my work.”",
+      "practice": "Draft a message with an observation, a concern, and a specific request. Remove any claim about motives that you cannot verify.",
+      "reflection": "What would make my request easy to understand?",
+      "options": [
+        "A clear request can name an action and timeframe",
+        "Respectful wording guarantees a good reply",
+        "Communication requires mind reading"
+      ],
+      "correct": 0,
+      "model": [
+        "Observation",
+        "Concern",
+        "Specific request"
+      ],
+      "takeaway": "Practice communication that is specific and respectful"
+    },
+    {
+      "day": 33,
+      "chapter": 7,
+      "title": "Make the feed intentional",
+      "objective": "Choose a digital boundary that fits your purpose.",
+      "learn": "A digital habit can be useful for learning, connection, work, or enjoyment. The question is whether the current pattern serves the purpose you chose. Notice what you intended to do, what captured attention, and how you felt or acted afterward. You do not need to label every screen activity as harmful. Consider changing notifications, curating accounts, setting a stopping cue, or choosing a different time. If online contact becomes threatening or exploitative, use platform safety tools and seek appropriate help. Do not engage in a risky confrontation to prove that you can manage the situation alone.",
+      "example": "Parker opens an app to check a club update but stays on unrelated clips. Parker saves the club page and sets a short stopping cue for that specific task.",
+      "practice": "Choose one app or online activity. Write its useful purpose, one sign it has drifted from that purpose, and a boundary you can test.",
+      "reflection": "What do I want this digital activity to give me?",
+      "options": [
+        "Every screen activity is harmful",
+        "A digital boundary can be based on purpose",
+        "Notifications must always remain on"
+      ],
+      "correct": 1,
+      "model": [
+        "Purpose",
+        "Attention pattern",
+        "Chosen stopping cue"
+      ],
+      "takeaway": "Choose a digital boundary that fits your purpose"
+    },
+    {
+      "day": 34,
+      "chapter": 7,
+      "title": "Map safe support",
+      "objective": "Identify different people or services for different needs.",
+      "learn": "A support network can include friends, trusted adults, teachers, community workers, and qualified professionals. One person does not need to meet every need. A friend may listen, while a school office helps with a practical problem and a clinician addresses health concerns. Think about trust, availability, boundaries, and what each person is qualified to do. Do not record private contact information on a shared device. If someone responds dismissively, consider another appropriate source rather than treating that response as proof that help is unavailable. For urgent safety concerns, use emergency or crisis support instead of waiting for an ordinary appointment or workbook reply.",
+      "example": "Reese lists a friend for company, an adviser for course questions, and a health professional for ongoing distress. Each role has a different purpose.",
+      "practice": "Make a private map of support roles without full names if preferred. Include an ordinary support, a practical resource, and an urgent-help route.",
+      "reflection": "Who can help with which kind of need?",
+      "options": [
+        "One friend should handle every need",
+        "This workbook monitors emergencies",
+        "Different needs may require different kinds of support"
+      ],
+      "correct": 2,
+      "model": [
+        "Need",
+        "Appropriate role",
+        "Contact route"
+      ],
+      "takeaway": "Identify different people or services for different needs"
+    },
+    {
+      "day": 35,
+      "chapter": 7,
+      "title": "Repair without surrendering your limit",
+      "objective": "Plan a repair conversation while keeping a reasonable boundary.",
+      "learn": "Repair means acknowledging a specific action and considering what would help restore trust. It is different from accepting blame for everything or giving up a needed boundary. You can apologize for speaking harshly while keeping a limit about your availability. Name what you did, its likely impact, and what you will do differently. Avoid demanding immediate forgiveness. Some relationships are unsafe, and contact may not be the right choice; seek support instead. You can practice with a fictional disagreement or write an unsent draft. The purpose is accountable communication, not earning access to another person.",
+      "example": "Dakota says, “I interrupted and raised my voice. I am sorry. I still cannot take on that task, and next time I will state the limit earlier.”",
+      "practice": "Draft a repair statement with a specific action, acknowledgment, and future change. Add the boundary that still needs to remain.",
+      "reflection": "What can I take responsibility for without taking responsibility for everything?",
+      "options": [
+        "Repair requires abandoning every limit",
+        "An apology can coexist with a boundary",
+        "Forgiveness can be demanded"
+      ],
+      "correct": 1,
+      "model": [
+        "Acknowledge action",
+        "Offer repair",
+        "Maintain a safe limit"
+      ],
+      "takeaway": "Plan a repair conversation while keeping a reasonable boundary"
+    },
+    {
+      "day": 36,
+      "chapter": 8,
+      "title": "Choose a meaningful goal",
+      "objective": "Connect a short-term goal to a personal value.",
+      "learn": "A goal identifies a result you want to work toward. A value explains why the effort matters to you. When these are confused, a missed goal can feel like proof that your values are false. Instead, choose a manageable result and name the direction it serves. Check whether the goal is yours, whether its timing is realistic, and whether resources are available. You may need to negotiate, postpone, or ask for help. A goal should guide effort, not become a verdict on your worth. Define a next action you can take even if the final outcome depends on other people.",
+      "example": "Jesse values learning and chooses to submit one training inquiry this week. The goal is the inquiry, not a guarantee of admission.",
+      "practice": "Write a goal for the next seven days, the value behind it, and the first action. Separate your action from any outcome another person decides.",
+      "reflection": "Why does this goal matter to me beyond looking successful?",
+      "options": [
+        "A missed goal erases a value",
+        "The outcome must be fully controllable",
+        "A goal can express a value through a specific result"
+      ],
+      "correct": 2,
+      "model": [
+        "Value",
+        "Short-term goal",
+        "First action"
+      ],
+      "takeaway": "Connect a short-term goal to a personal value"
+    },
+    {
+      "day": 37,
+      "chapter": 8,
+      "title": "Plan with your actual capacity",
+      "objective": "Match commitments to time, energy, and responsibilities.",
+      "learn": "Capacity is not constant. Sleep, health, paid work, school, caregiving, access, and stress can change what is possible. Planning with actual capacity means looking at the space available before adding a task. It does not require tracking every minute or optimizing every break. Leave room for transitions, uncertainty, and rest. If commitments exceed capacity, consider reducing scope, changing timing, sharing work, or asking for an extension. You are allowed to revise a plan when conditions change. A realistic schedule is more useful than an impressive schedule that has no room for ordinary life.",
+      "example": "Robin has one free hour but three large tasks. Robin chooses one essential step, reschedules another, and asks for help with the third instead of planning an impossible evening.",
+      "practice": "List today's fixed responsibilities, available time, and current capacity in plain words. Choose one necessary task and one thing that can wait.",
+      "reflection": "What can I remove or adjust so the plan fits my day?",
+      "options": [
+        "A realistic plan includes limits",
+        "Capacity is the same every day",
+        "Rest should fill only accidental gaps"
+      ],
+      "correct": 0,
+      "model": [
+        "Available capacity",
+        "Priorities",
+        "Smaller commitment"
+      ],
+      "takeaway": "Match commitments to time, energy, and responsibilities"
+    },
+    {
+      "day": 38,
+      "chapter": 8,
+      "title": "Choose a sustainable pace",
+      "objective": "Build rest and stopping points into purposeful effort.",
+      "learn": "A sustainable pace includes when to begin, what counts as enough for the session, and when to stop. Without a stopping rule, effort can expand until rest feels undeserved. Choose a small work block or task boundary that fits your attention and circumstances. Breaks do not have to be productive. If you regularly feel unable to meet basic needs or responsibilities, a schedule alone may not be enough; seek practical or professional support. The aim is not maximum output. It is a pattern you can review and adjust without repeatedly exhausting yourself.",
+      "example": "Adrian decides to outline one section, then stop for a meal before choosing whether to continue. Finishing more is optional, not a condition for deserving food or rest.",
+      "practice": "Choose a task, a reasonable stopping point, and a break that is actually restful for you. Notice how the plan fits today.",
+      "reflection": "What does “enough for this session” look like?",
+      "options": [
+        "A stopping point can support sustainable effort",
+        "Every break must produce something",
+        "Food and rest must be earned"
+      ],
+      "correct": 0,
+      "model": [
+        "Begin",
+        "Defined amount",
+        "Stop and recover"
+      ],
+      "takeaway": "Build rest and stopping points into purposeful effort"
+    },
+    {
+      "day": 39,
+      "chapter": 8,
+      "title": "Restart after a missed day",
+      "objective": "Use a return plan instead of a punishment plan.",
+      "learn": "An interruption is a common part of learning. Illness, changing responsibilities, forgetfulness, or a difficult day can disrupt a routine. A return plan answers “What is the next useful action?” A punishment plan adds extra work, insults, or unrealistic rules. Notice the difference. You may resume where you left off, repeat a helpful lesson, or reduce the next session. Consider whether the original routine needs changing rather than assuming the interruption was only a motivation problem. Returning is a skill you can practice. You do not owe the workbook a perfect streak.",
+      "example": "Cameron misses three days during a family change. Instead of doubling lessons, Cameron opens the next day, reads the objective, and decides whether a shorter session fits.",
+      "practice": "Imagine missing a week. Write the first action you would take on return and one expectation you would deliberately release.",
+      "reflection": "How can I make returning easier for my future self?",
+      "options": [
+        "A missed week requires punishment",
+        "A return plan focuses on the next useful action",
+        "A streak measures personal worth"
+      ],
+      "correct": 1,
+      "model": [
+        "Interruption",
+        "Check circumstances",
+        "Small return"
+      ],
+      "takeaway": "Use a return plan instead of a punishment plan"
+    },
+    {
+      "day": 40,
+      "chapter": 8,
+      "title": "Review motivation without blame",
+      "objective": "Look for fit, friction, and support in your goal plan.",
+      "learn": "Review the goal from Day 36. Did the goal still matter? Was the first action clear? Did the setting and available resources support it? Motivation is not the only factor. An unclear task, an inaccessible tool, or too many demands can make action difficult. Record what you attempted and what got in the way. Avoid treating a result as a complete explanation of your character. Decide whether to keep the goal, change the method, reduce the scope, or seek support. Sometimes stopping an unsuitable goal is a responsible decision, especially when it conflicts with safety or basic needs.",
+      "example": "Shawn did not submit an inquiry because the form required a document they could not find. The next step is asking about the requirement, not adding a harsher motivational slogan.",
+      "practice": "Review your seven-day goal using fit, friction, and support. Choose one adjustment based on the actual obstacle.",
+      "reflection": "What needs changing in the plan rather than in my self-worth?",
+      "options": [
+        "Motivation explains every result",
+        "Every goal must be kept forever",
+        "Practical friction can be addressed with support"
+      ],
+      "correct": 2,
+      "model": [
+        "Goal fit",
+        "Actual friction",
+        "Support or adjustment"
+      ],
+      "takeaway": "Look for fit, friction, and support in your goal plan"
+    },
+    {
+      "day": 41,
+      "chapter": 9,
+      "title": "Separate a setback from a verdict",
+      "objective": "Describe what happened without turning it into a total identity.",
+      "learn": "A setback is an event or result that did not match a hope or plan. A verdict is a broad conclusion about your worth or future. “The application was declined” describes a result. “I will never have a future” goes far beyond the available information. A setback may still be painful, unfair, or costly. You do not need to minimize that impact to examine the conclusion. Start with the specific event, acknowledge what it cost, and identify what is still possible or what support is needed. The next step may be rest or advice, not immediate productivity.",
+      "example": "Micah fails one driving test and feels embarrassed. The result means another attempt or a different plan is needed; it does not describe every ability Micah has.",
+      "practice": "Write a setback as one factual sentence. Then name its impact and one conclusion that the event does not establish.",
+      "reflection": "Which part is an event, and which part is a sweeping verdict?",
+      "options": [
+        "One result determines my whole future",
+        "A setback can hurt without defining my worth",
+        "Acknowledging impact prevents learning"
+      ],
+      "correct": 1,
+      "model": [
+        "Event",
+        "Impact",
+        "Limits of the conclusion"
+      ],
+      "takeaway": "Describe what happened without turning it into a total identity"
+    },
+    {
+      "day": 42,
+      "chapter": 9,
+      "title": "Review without attacking yourself",
+      "objective": "Use a short debrief to identify a useful change.",
+      "learn": "A debrief asks what was intended, what happened, what contributed, and what could be tried next. It avoids two extremes: blaming yourself for everything and refusing to examine anything you could influence. Include external conditions and information you did not have at the time. Be specific about actions, timing, and resources. If the event involves serious harm, legal concerns, or trauma, use qualified support rather than processing it alone through this exercise. For an ordinary setback, a short debrief can help you find one change without making the review a repeated punishment.",
+      "example": "Tatum misses a meeting after relying on a reminder that was never set. The debrief identifies an unchecked calendar step and a confusing invitation, rather than “I ruin everything.”",
+      "practice": "Use four headings: intended, happened, contributed, next trial. Limit the review to an ordinary situation and one practical change.",
+      "reflection": "What can I learn without replaying the event as punishment?",
+      "options": [
+        "A debrief looks at actions and conditions",
+        "A debrief must assign total blame",
+        "Only internal causes count"
+      ],
+      "correct": 0,
+      "model": [
+        "Intention",
+        "Outcome",
+        "Contributing factors",
+        "Next trial"
+      ],
+      "takeaway": "Use a short debrief to identify a useful change"
+    },
+    {
+      "day": 43,
+      "chapter": 9,
+      "title": "Practice accountable self-kindness",
+      "objective": "Combine acknowledgment of a mistake with respectful support.",
+      "learn": "Self-kindness does not mean pretending an action had no consequences. It means responding to yourself in a way that supports honest repair and learning. You can say, “That was not the choice I wanted to make. I can take responsibility without calling myself worthless.” Consider what you need to do for anyone affected, what support would help, and what expectation is realistic now. Avoid using kindness to excuse repeated harm. Also avoid assuming that being cruel to yourself will make you safer or more responsible. Practice with a small mistake where repair is possible.",
+      "example": "Jaden forgets a shared task. Jaden acknowledges the impact, contacts the group, and offers a realistic repair instead of disappearing out of shame.",
+      "practice": "Write a three-part response: acknowledge the mistake, speak respectfully to yourself, and choose a repair or learning action.",
+      "reflection": "What would kindness make possible that self-insult does not?",
+      "options": [
+        "Kindness removes responsibility",
+        "Cruelty is required for change",
+        "Kindness can support accountable repair"
+      ],
+      "correct": 2,
+      "model": [
+        "Acknowledge",
+        "Support",
+        "Repair"
+      ],
+      "takeaway": "Combine acknowledgment of a mistake with respectful support"
+    },
+    {
+      "day": 44,
+      "chapter": 9,
+      "title": "Forgiveness is a choice",
+      "objective": "Distinguish forgiveness, reconciliation, trust, and safety.",
+      "learn": "Forgiveness means different things to different people and is never a workbook requirement. Reconciliation involves renewed relationship. Trust concerns what you believe is safe to rely on. These can be separate decisions. You do not need to forgive, contact, or reconcile with someone who harmed you to complete this program. You may choose distance, support, a reporting route, or more time. This lesson does not ask you to revisit traumatic details. Use a mild fictional example if preferred. The practical skill is recognizing that another person's request for forgiveness does not remove your right to boundaries and safety.",
+      "example": "A friend apologizes for repeatedly sharing private information. Charlie can acknowledge the apology while deciding not to share sensitive information or resume the same level of trust.",
+      "practice": "Using a low-stakes or fictional situation, describe an apology, a possible boundary, and a decision that should remain optional.",
+      "reflection": "Which decision needs more time or support rather than pressure?",
+      "options": [
+        "Forgiveness requires renewed access",
+        "Trust and reconciliation can be separate choices",
+        "Completion requires forgiving everyone"
+      ],
+      "correct": 1,
+      "model": [
+        "Apology",
+        "Automatic trust",
+        "Required contact"
+      ],
+      "takeaway": "Distinguish forgiveness, reconciliation, trust, and safety"
+    },
+    {
+      "day": 45,
+      "chapter": 9,
+      "title": "Build your setback response",
+      "objective": "Create a short plan for a future difficult result.",
+      "learn": "A setback response is a sequence you can use when disappointment makes choices feel crowded. Start with immediate needs and safety. Next describe the event accurately, choose an appropriate person or resource, and identify one action that can wait until you have more capacity. Include a restart option without requiring a quick turnaround. The plan is not a promise that you will feel resilient in every situation. It is a reminder that support and practical choices can exist alongside difficult feelings. Review it after a real event and adjust what did not fit.",
+      "example": "After a rejected application, Frankie plans to eat, tell a trusted person, save the response, and review alternatives the following day instead of sending an angry reply immediately.",
+      "practice": "Write a four-step plan: immediate care, accurate description, support route, and later next step. Keep it brief enough to find when needed.",
+      "reflection": "What sequence would help me respond rather than rush to a verdict?",
+      "options": [
+        "A response plan can include rest and support",
+        "Resilience means acting unaffected",
+        "Every setback needs an immediate solution"
+      ],
+      "correct": 0,
+      "model": [
+        "Immediate needs",
+        "Describe",
+        "Connect",
+        "Later action"
+      ],
+      "takeaway": "Create a short plan for a future difficult result"
+    },
+    {
+      "day": 46,
+      "chapter": 10,
+      "title": "Imagine a possible future",
+      "objective": "Explore a direction without treating it as a prediction.",
+      "learn": "Future-self writing is a way to explore preferences, not a method for guaranteeing outcomes. Imagine an ordinary day several months ahead. Include routines, relationships, contributions, and support, not only achievements or possessions. Ask what parts are meaningful and what resources they would require. You can imagine more than one possible future. Uncertainty about work, education, health, or family does not mean you have failed to plan. Use the exercise to identify a direction and a small present action, while leaving space for circumstances to change.",
+      "example": "Alex imagines a day with steady learning, time with friends, and less rushing. That picture points toward checking training options and creating a calmer morning routine, not a promise of a particular job.",
+      "practice": "Write a future ordinary day in five sentences. Underline one value and one action you could begin exploring now.",
+      "reflection": "Which part of this future matters even if the exact plan changes?",
+      "options": [
+        "Imagining a future guarantees it",
+        "A useful future can include support and ordinary routines",
+        "Only career achievements belong in a future plan"
+      ],
+      "correct": 1,
+      "model": [
+        "Possible day",
+        "Meaningful value",
+        "Present exploration"
+      ],
+      "takeaway": "Explore a direction without treating it as a prediction"
+    },
+    {
+      "day": 47,
+      "chapter": 10,
+      "title": "Work backward one step",
+      "objective": "Connect a future direction to a near-term milestone.",
+      "learn": "Backward planning starts with a direction and asks what would need to be true immediately before it. Continue only far enough to identify a useful near-term milestone. Avoid building a rigid chain that assumes every decision and resource will be available. Check requirements rather than guessing them. A milestone should provide information or move a practical step forward. When a barrier appears, ask whether the goal, route, timing, or support needs changing. The purpose is to make the next question visible, not to prove that your entire future can be controlled.",
+      "example": "To explore a training program, Sam first needs to know entry requirements. The near-term milestone is finding the official requirements and writing down one question for an adviser.",
+      "practice": "Choose a future direction, one milestone that would support it, and a question you need answered before committing further.",
+      "reflection": "What needs to be learned or arranged before my next step?",
+      "options": [
+        "A milestone can be an information-gathering step",
+        "A plan must predict every detail",
+        "Uncertainty makes planning useless"
+      ],
+      "correct": 0,
+      "model": [
+        "Direction",
+        "Near milestone",
+        "Next question"
+      ],
+      "takeaway": "Connect a future direction to a near-term milestone"
+    },
+    {
+      "day": 48,
+      "chapter": 10,
+      "title": "Write from your wiser perspective",
+      "objective": "Use a future letter to offer realistic guidance.",
+      "learn": "A letter from a future perspective can help you notice what you already know about support, patience, and choices. It is an imagination exercise, not a message from someone who knows how your life will unfold. Let the imagined writer acknowledge uncertainty and difficulty. Avoid promises that everything will work out or that suffering was necessary. Focus on advice that is useful now: ask a question, protect a boundary, accept help, or take a smaller step. You may write to yourself in the third person if a direct letter feels uncomfortable.",
+      "example": "Kai's imagined future letter says, “You did not have all the answers. Asking for clarification helped you choose the next course. You were allowed to rest while deciding.”",
+      "practice": "Write a short letter containing one acknowledgment, one practical reminder, and one permission you need now. Remove any guarantee about the future.",
+      "reflection": "What advice can I use today without needing a prediction?",
+      "options": [
+        "A future letter predicts events",
+        "A useful letter must promise success",
+        "An imagined perspective can offer present-day guidance"
+      ],
+      "correct": 2,
+      "model": [
+        "Acknowledge uncertainty",
+        "Offer a reminder",
+        "Choose today's action"
+      ],
+      "takeaway": "Use a future letter to offer realistic guidance"
+    },
+    {
+      "day": 49,
+      "chapter": 10,
+      "title": "Plan for more than one route",
+      "objective": "Create alternatives without treating a changed path as failure.",
+      "learn": "A flexible plan can include a preferred route, an alternative, and a way to gather more information. Alternatives are not evidence that you lack commitment. They protect options when a deadline, cost, requirement, or personal circumstance changes. Keep the alternatives connected to the value behind the original goal. Some routes may need advice from a qualified professional or an official source. Do not commit money, travel, or a major life change based only on this workbook. Use the lesson to clarify what you need to verify and who can help.",
+      "example": "Noor wants a particular course but also identifies a related local class and an adviser who can explain financial support. All three routes serve learning, even if the first is unavailable.",
+      "practice": "Write a preferred next step, a realistic alternative, and an information source. Note any cost or requirement that must be verified.",
+      "reflection": "Which value can stay steady while the route changes?",
+      "options": [
+        "An alternative proves lack of commitment",
+        "Different routes can serve the same value",
+        "Major decisions need no verification"
+      ],
+      "correct": 1,
+      "model": [
+        "Preferred route",
+        "Alternative",
+        "Verified information"
+      ],
+      "takeaway": "Create alternatives without treating a changed path as failure"
+    },
+    {
+      "day": 50,
+      "chapter": 10,
+      "title": "Write your next-month plan",
+      "objective": "Turn reflection into a flexible short-term plan.",
+      "learn": "A next-month plan should be small enough to review and specific enough to use. Choose one priority rather than a full redesign of your life. Name the value it serves, the first action, the support needed, and a date to review what happened. Include a fallback if circumstances change. You may decide to continue a useful practice instead of adding something new. A plan is a tool for making decisions with the information you have now. It should change when new information, needs, or responsibilities appear. Leave space for rest and ordinary enjoyment.",
+      "example": "Dev chooses to explore one training option, ask an adviser a question, and review the information in two weeks. If the adviser is unavailable, Dev will use the official information page and write questions for later.",
+      "practice": "Draft a one-priority plan with action, support, review date, and fallback. Check that it fits the capacity you described earlier.",
+      "reflection": "What is one direction worth giving attention to next month?",
+      "options": [
+        "A useful plan includes a review point",
+        "A monthly plan must change every part of life",
+        "Revising a plan is failure"
+      ],
+      "correct": 0,
+      "model": [
+        "Priority",
+        "First action",
+        "Support",
+        "Review"
+      ],
+      "takeaway": "Turn reflection into a flexible short-term plan"
+    },
+    {
+      "day": 51,
+      "chapter": 11,
+      "title": "Build a small daily anchor",
+      "objective": "Choose a repeatable routine that fits your context.",
+      "learn": "A daily anchor is a modest action connected to a familiar moment. It might be checking the day’s schedule, placing a notebook beside breakfast, or contacting a supportive person at an agreed time. It is not a ritual that guarantees safety or prevents difficult feelings. Keep it flexible and avoid making it a rule you must repeat perfectly. Consider accessibility, privacy, and the people who share your space. The useful question is whether the anchor helps you notice a choice or meet a practical need. If it becomes burdensome, revise or stop it.",
+      "example": "Ellis checks the next appointment after putting away breakfast dishes. On days without that routine, Ellis uses a phone reminder instead.",
+      "practice": "Choose an existing moment, a small helpful action, and an alternative cue. Test whether the anchor is useful rather than simply repetitive.",
+      "reflection": "What regular moment could remind me of one helpful choice?",
+      "options": [
+        "An anchor guarantees a stress-free day",
+        "An anchor must never change",
+        "A small routine can be tested and adapted"
+      ],
+      "correct": 2,
+      "model": [
+        "Familiar moment",
+        "Helpful action",
+        "Flexible fallback"
+      ],
+      "takeaway": "Choose a repeatable routine that fits your context"
+    },
+    {
+      "day": 52,
+      "chapter": 11,
+      "title": "Collect a balanced good moment",
+      "objective": "Notice something supportive without denying difficulty.",
+      "learn": "Noticing a good moment can coexist with grief, stress, injustice, or disappointment. You do not have to call a difficult situation a gift or feel grateful toward someone who harmed you. Look for a specific experience that offered comfort, interest, connection, or relief. It may be small: a clear explanation, a pleasant sound, or a person keeping a promise. Describe what happened rather than forcing a positive interpretation. If nothing fits today, record that honestly or choose a neutral observation. This practice is an invitation to notice part of the picture, not a demand to replace the rest.",
+      "example": "Chris had a difficult day and also appreciated a friend sharing notes. Both facts can be true without one canceling the other.",
+      "practice": "Record one supportive or neutral moment, what made it noticeable, and whether you want more of that condition in your week.",
+      "reflection": "What can I appreciate without minimizing what is hard?",
+      "options": [
+        "Gratitude requires denying pain",
+        "Supportive moments and difficulty can coexist",
+        "Every difficult event must have a hidden benefit"
+      ],
+      "correct": 1,
+      "model": [
+        "Specific moment",
+        "What it offered",
+        "Optional future choice"
+      ],
+      "takeaway": "Notice something supportive without denying difficulty"
+    },
+    {
+      "day": 53,
+      "chapter": 11,
+      "title": "Create your coping menu",
+      "objective": "Build a range of options rather than one compulsory technique.",
+      "learn": "A coping menu is a set of possibilities for different situations. Include an outward-focused attention practice, a practical problem-solving action, a rest option, and a support route. What helps in one context may not help in another. An exercise that feels uncomfortable does not need to stay on the menu. Serious or persistent distress may require professional help; the menu is not a replacement. Keep choices simple and accessible. You can include music, a safe walk if available, a familiar task, or asking for company. The purpose is to reduce the burden of inventing every option when you are already tired.",
+      "example": "Pat lists looking at a familiar object, checking task instructions, taking a quiet break, and contacting an adviser. Pat chooses based on the actual need.",
+      "practice": "Create four categories: attention, practical action, rest, and connection. Add one accessible option and one sign that outside help is needed.",
+      "reflection": "Which options fit different needs instead of asking one tool to do everything?",
+      "options": [
+        "One technique must work in every situation",
+        "A coping menu replaces professional care",
+        "Different needs can call for different options"
+      ],
+      "correct": 2,
+      "model": [
+        "Notice need",
+        "Choose a matching option",
+        "Review effect"
+      ],
+      "takeaway": "Build a range of options rather than one compulsory technique"
+    },
+    {
+      "day": 54,
+      "chapter": 11,
+      "title": "Make support easier to access",
+      "objective": "Prepare a practical route to asking for help.",
+      "learn": "Knowing someone could help is different from knowing how to contact them, what to ask, and when they are available. Reduce one practical barrier in advance. You might write a short opening message, check office hours, identify an official service page, or arrange a regular check-in. Keep privacy in mind, especially on a shared device. You can use role names instead of personal contact details in the workbook. For a health or safety concern, use appropriate services rather than waiting for a friend or facilitator. Asking for help can be brief and specific; you do not have to explain your whole history.",
+      "example": "Jordan drafts, “I have been finding the workload hard to manage. Could we discuss one way to adjust it?” The draft makes an adviser conversation easier to begin.",
+      "practice": "Choose a support role and prepare an opening sentence, an appropriate contact route, and a backup if the first route is unavailable.",
+      "reflection": "What is one barrier to support that I can reduce now?",
+      "options": [
+        "I must explain my entire history to ask a question",
+        "A prepared opening can make support easier to access",
+        "A friend must always be available"
+      ],
+      "correct": 1,
+      "model": [
+        "Identify role",
+        "Prepare words",
+        "Check route",
+        "Backup"
+      ],
+      "takeaway": "Prepare a practical route to asking for help"
+    },
+    {
+      "day": 55,
+      "chapter": 11,
+      "title": "Practice your plan on an ordinary day",
+      "objective": "Rehearse a support sequence before you urgently need it.",
+      "learn": "A plan becomes easier to evaluate when you try it in a low-stakes situation. Choose a mild inconvenience rather than deliberately creating distress. Notice the signal, choose an option from the coping menu, and decide whether a practical action or support request is needed. Afterward, ask what was easy to find and what was confusing. Rehearsal is not a test of whether you are resilient enough. It helps improve the plan's usability. If a situation is unsafe, skip rehearsal and seek appropriate assistance. You do not need to expose yourself to danger to prove a skill.",
+      "example": "A delayed bus gives Riley a chance to notice frustration, check the schedule, and send a short update to the person waiting. The plan is practiced without manufacturing a crisis.",
+      "practice": "Use a mild real or fictional inconvenience. Walk through your menu and support route, then simplify one unclear step.",
+      "reflection": "What would make this plan easier to use when I have less capacity?",
+      "options": [
+        "Practice should create serious distress",
+        "A confusing plan should be kept unchanged",
+        "Low-stakes rehearsal can reveal practical improvements"
+      ],
+      "correct": 2,
+      "model": [
+        "Mild situation",
+        "Use plan",
+        "Notice friction",
+        "Simplify"
+      ],
+      "takeaway": "Rehearse a support sequence before you urgently need it"
+    },
+    {
+      "day": 56,
+      "chapter": 12,
+      "title": "Gather evidence of learning",
+      "objective": "Name what you can now describe, try, or ask.",
+      "learn": "Learning can be visible in language and choices even when feelings remain difficult. Look for an example of noticing a thought, naming a feeling, setting a limit, adapting a habit, or seeking support. Avoid claiming that every change was caused by the workbook. Other people, events, treatment, resources, and time may also matter. You can record a skill you understand but have not yet used. That is different from practical confidence, and both are worth describing accurately. Choose one example that is specific enough to explain to yourself without comparing your progress with another learner.",
+      "example": "Sam notices being able to separate “I am worried” from “This will certainly go badly.” The worry remains, but the distinction offers more room to choose a question.",
+      "practice": "Write three headings: I can describe, I have tried, and I want support with. Add one honest item to each.",
+      "reflection": "What evidence of learning can I name without overstating it?",
+      "options": [
+        "Learning requires constant emotional improvement",
+        "Understanding and practical use can be described separately",
+        "All changes must be credited to the workbook"
+      ],
+      "correct": 1,
+      "model": [
+        "Understand",
+        "Try",
+        "Review",
+        "Seek support"
+      ],
+      "takeaway": "Name what you can now describe, try, or ask"
+    },
+    {
+      "day": 57,
+      "chapter": 12,
+      "title": "Tell a flexible story of change",
+      "objective": "Describe your experience without forcing a transformation narrative.",
+      "learn": "A final story does not have to move neatly from broken to fixed. You were a whole person before the workbook and remain one afterward. Describe what brought you here, what you tried, what was useful, and what remains unresolved. Include support and circumstances rather than presenting change as willpower alone. You may keep the story private. If you later choose to share publicly, remove other people's identifying information and do not feel pressured to disclose pain for an inspiring ending. An honest account can include mixed results and an unfinished next chapter.",
+      "example": "Kai writes, “I still find uncertainty difficult. I have practiced checking assumptions and asking one clear question. I want to keep working on that with support.”",
+      "practice": "Write four sentences: my starting context, a practice I tried, what I learned, and what is still open. Avoid labels such as broken or cured.",
+      "reflection": "What would an honest account include that a polished success story might leave out?",
+      "options": [
+        "An honest story can include unresolved difficulties",
+        "The workbook requires a dramatic success story",
+        "Sharing publicly proves completion"
+      ],
+      "correct": 0,
+      "model": [
+        "Context",
+        "Practice",
+        "Learning",
+        "Open questions"
+      ],
+      "takeaway": "Describe your experience without forcing a transformation narrative"
+    },
+    {
+      "day": 58,
+      "chapter": 12,
+      "title": "Prepare for an interrupted future",
+      "objective": "Write a maintenance plan with a return route.",
+      "learn": "A maintenance plan is not a promise never to struggle again. Choose two practices that fit your life and a signal that tells you the plan needs attention. Include who or what can help when the practices are not enough. Decide how you will return after an interruption without adding punishment. Keep the plan short enough to find and read. You may revisit an earlier lesson rather than starting a new routine. If your needs change, update the plan or seek qualified advice. Finishing a workbook does not remove the need for ongoing care, practical resources, or community.",
+      "example": "Noor keeps a weekly schedule check and a clear support request template. If missed commitments increase, Noor will review capacity with an adviser instead of demanding more willpower.",
+      "practice": "Choose two practices, one review signal, one support route, and a restart action. Make each item concrete.",
+      "reflection": "What should happen when my plan no longer fits?",
+      "options": [
+        "Maintenance means never needing help",
+        "A plan can include revision and return",
+        "Completion prevents future difficulty"
+      ],
+      "correct": 1,
+      "model": [
+        "Keep two practices",
+        "Notice a signal",
+        "Review with support"
+      ],
+      "takeaway": "Write a maintenance plan with a return route"
+    },
+    {
+      "day": 59,
+      "chapter": 12,
+      "title": "Choose your next contribution",
+      "objective": "Connect growth to a voluntary, bounded action.",
+      "learn": "A contribution is an action that expresses care or a value in your community, relationships, or daily life. It can be small and private. You do not owe service as repayment for receiving help. Choose something within your capacity, such as sharing a useful resource, completing an agreed task, or listening within your limits. Avoid becoming the sole support for someone in crisis or taking on a role beyond your training. A sustainable contribution includes a boundary and an exit point. You may also choose rest as the responsible next action when your capacity is limited.",
+      "example": "Dev offers to help a classmate review one set of instructions for fifteen minutes, while making clear that complex questions should go to the teacher.",
+      "practice": "Choose a voluntary action, the value it expresses, the time or scope limit, and a safe referral if someone needs more help than you can offer.",
+      "reflection": "How can I contribute without abandoning my own limits?",
+      "options": [
+        "Receiving help creates an unlimited debt",
+        "A contribution must be public",
+        "A bounded voluntary action can express care"
+      ],
+      "correct": 2,
+      "model": [
+        "Value",
+        "Voluntary action",
+        "Clear limit"
+      ],
+      "takeaway": "Connect growth to a voluntary, bounded action"
+    },
+    {
+      "day": 60,
+      "chapter": 12,
+      "title": "Your continuing manifesto",
+      "objective": "Write a realistic statement of how you want to continue.",
+      "learn": "Day 60 marks completion of a learning sequence, not a deadline for becoming a different person. Review your starting snapshot in context. Notice what you can describe more clearly, what you have practiced, and where help is still needed. A continuing manifesto can name your values, the tools you choose to keep, the boundaries you will protect, and the support you are willing to seek. Avoid promises of perfect calm or permanent confidence. Your participation certificate acknowledges self-reported learning activity only; it is not a clinical or professional credential. You may celebrate privately, return to earlier lessons, or take a break before deciding what comes next.",
+      "example": "Alex writes, “I will question sweeping conclusions, ask for specific help, and allow my plans to change. I do not have to handle everything alone.” The statement supports a direction rather than a guaranteed outcome.",
+      "practice": "Write five lines: what matters to me, a tool I will keep, a limit I will protect, support I can seek, and a next review date. Acknowledge completing the sequence in a way that feels right.",
+      "reflection": "What do I want to carry forward with honesty and care?",
+      "options": [
+        "Completion guarantees recovery",
+        "A certificate is a professional qualification",
+        "A continuing statement can include limits and support"
+      ],
+      "correct": 2,
+      "model": [
+        "Values",
+        "Useful tools",
+        "Boundaries",
+        "Support",
+        "Continuing practice"
+      ],
+      "takeaway": "Write a realistic statement of how you want to continue"
+    }
+  ]
+}
